@@ -1,2 +1,2 @@
 # basic_c
-Backup for C programs
+Backup for C programs.
