@@ -6,7 +6,7 @@ int main()
     int *j; //Pointer data type
 
     i = 5;
-    j = &i; //&i is address of i
+    j = &i; //&i is address of i    
 
     printf("The value of i is: %d\n", i);     // Value of i = 5
     printf("The address of i is: %d\n", &i);  // Address of i
