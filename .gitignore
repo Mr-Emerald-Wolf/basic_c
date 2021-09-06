@@ -1,3 +1,7 @@
 basic_Loops/if_else.exe
 # Binaries for programs and plugins
 *.exe
+*.o
+Project Set 7 Arrays/array1
+*
+!*.c
