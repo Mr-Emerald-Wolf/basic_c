@@ -1,0 +1,32 @@
+{
+	"boilerplate code": {
+		"prefix": "boilerplate",
+		"body": [
+		  "#include <stdio.h>",
+		  "int main()",
+		  "{",
+		  "    $0    ",
+		  "    return 0;",
+		  "}"
+		],
+		"description": "boilerplate code"
+	  },
+
+	  "print command": {
+		"prefix": "print",
+		"body": [
+		  "printf(\"$0\");"
+		],
+		"description": "print command"
+	  },
+	  
+	  "scan command": {
+		"prefix": "scan",
+		"body": [
+		  "scanf(\"%$1\",&$0);"
+		],
+		"description": "scan command"
+	  }
+
+
+}
