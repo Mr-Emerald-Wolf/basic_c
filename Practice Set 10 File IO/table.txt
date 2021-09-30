@@ -1,0 +1,10 @@
+5 Multiplied with 1: 5
+5 Multiplied with 2: 10
+5 Multiplied with 3: 15
+5 Multiplied with 4: 20
+5 Multiplied with 5: 25
+5 Multiplied with 6: 30
+5 Multiplied with 7: 35
+5 Multiplied with 8: 40
+5 Multiplied with 9: 45
+5 Multiplied with 10: 50
