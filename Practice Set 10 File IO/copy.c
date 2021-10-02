@@ -1,4 +1,8 @@
 #include <stdio.h>
+void openFile(FILE *file)
+{
+    file = fopen("input.txt","r");
+}
 int main()
 {
     int flag = 0; //To copy content twice
@@ -8,7 +12,7 @@ int main()
     FILE *ptr2;
 
     ptr1 = fopen("output.txt","w");
-    ptr2 = fopen("input.txt","r");
+    
 
     c = fgetc(ptr2);
 
